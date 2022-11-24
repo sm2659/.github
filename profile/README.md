@@ -14,4 +14,4 @@
 |NLP, post-processing, visualization|Apache Spark, Hive, Zeppelin|조형서|
 
 # Technical Architecture
-<img width="500" alt="Technical Architecture" src="../img/Technical_Architecture.png">
+<img width="500" alt="Technical Architecture" src="./img/Technical_Architecture.png">
