@@ -1,5 +1,5 @@
-# 가짜 리뷰 필터링을 통한 여행 숙박업소 리뷰 빅 데이터 분석 시스템
-# Travel accommodation review big data analysis system through fake review filtering
+# 하둡 기반의 가짜 리뷰 필터링을 통한 여행 숙박 업소 리뷰 빅데이터 분석 시스템
+Accommodation review data analysis system through Hadoop-ecosystem-based fake review filtering
 
 # 문제 정의
 소비자의 87%가 방문하는 장소의 리뷰를 보고 코로나로 인해 리뷰 데이터의 중요성은 커졌다.
