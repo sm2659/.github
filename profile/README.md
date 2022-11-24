@@ -14,4 +14,4 @@
 |NLP, post-processing, visualization|Apache Spark, Hive, Zeppelin|조형서|
 
 # Technical Architecture
-![image](./img/Technical_Architecture.png)
+![image](https://github.com/BDP-HYVA/.github/blob/main/profile/img/Technical_Architecture.png)
